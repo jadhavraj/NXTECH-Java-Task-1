@@ -1,2 +1,3 @@
 # NXTECH-Java-Task-1
-Task-1 Create a Java Banking Application     
+NXTECH-Java-Task-1
+I Develop a Banking Application In  Java  
